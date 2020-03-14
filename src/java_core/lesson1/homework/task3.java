@@ -6,7 +6,7 @@ public class task3 {
     }
 
     static int mathExpressionSolver(int a, int b, int c, int d) {
-        return a * (b + (c / d));
+        return a * (b + (c / d)); //
     }
 }
 
