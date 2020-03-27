@@ -153,7 +153,7 @@ public class XoGame {
                 playerAnswer[1] = y;
                 break;
             } catch (InputMismatchException exception) {
-                System.out.println("Вы ввели не цифры! Введите цифры");
+                System.out.println("Вы ввели не цифры! Введите цифры!");
                 in.next();
             }
         }
